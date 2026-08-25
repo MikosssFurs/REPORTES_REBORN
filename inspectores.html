@@ -10,6 +10,7 @@
     <link rel="icon" href="Archivos/imagen/REPORTES_LOGO.png" type="image/png" />
     <script src="auth.js" defer></script>
   </head>
+  
   <body>
     <!--Pagina de carga viendo si tienes los permisos para entrar-->
     <div id="guard-loading-screen">
@@ -298,7 +299,7 @@
           </div>
           <p class="mensajetarjeta"></p>
         `;
-
+          //Funciones de reportes
         const categoriaSelect = tarjeta.querySelector(".selectcategoriaadmin");
         const prioridadSelect = tarjeta.querySelector(".selectprioridadadmin");
         categoriaSelect.value = nombreCategoriaValor(reporte.categoria);
@@ -499,7 +500,7 @@
           <span class="etiquetarol ${rol}">${nombreDelRol(rol)}</span>
           <div class="accioncuenta"></div>
         `;
-
+          //ROLES
         const acciones = tarjeta.querySelector(".accioncuenta");
 
         if (rol === "inspector_mayor") {
@@ -540,7 +541,7 @@
 
         return tarjeta;
       }
-
+      //Asignar rol de inspector
       async function ponerInspector(cuenta, tarjeta) {
         const boton = tarjeta.querySelector("button");
         boton.disabled = true;
@@ -597,7 +598,7 @@
           alert("No se pudo cambiar el tipo de cuenta.");
           }
       }
-
+      //Los archivos de reportes
       function mostrarArchivos(reporte, contenedor) {
         let archivos = [...(reporte.archivos || [])];
 
