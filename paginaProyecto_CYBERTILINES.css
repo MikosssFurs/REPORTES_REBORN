@@ -217,7 +217,7 @@ CABECERA Y NAVEGACIÓN
     transition: 0.2s ease;
     border-radius: 4px;
 }
-
+/* Efecto visual al pasar el cursor sobre cerrar sesión */
 .botoncerrarsesion:hover {
     background: var(--gold);
     color: #000;
