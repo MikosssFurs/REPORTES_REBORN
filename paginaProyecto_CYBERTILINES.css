@@ -880,7 +880,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     color: #888;
     line-height: 1.4;
 }
-
+/* Animación de parpadeo del cursor */
 /* Cursor interactivo de terminal */
 .cursorparpadea {
     animation: blink 1s infinite;
