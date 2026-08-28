@@ -696,6 +696,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     transition: transform 0.2s, background 0.2s;
 }
 
+/* Efecto visual al interactuar con el botón principal */
 .botonprincipal:hover {
     transform: scale(1.05);
     background: #ffd633;
