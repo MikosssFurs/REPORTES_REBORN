@@ -84,7 +84,7 @@
     text-transform: uppercase;
     cursor: pointer;
 }
-
+/* Indica la cantidad de reportes por categoría */
 .cantidadcategoria {
     color: var(--gold);
     font-family: 'Open Sans', sans-serif;
