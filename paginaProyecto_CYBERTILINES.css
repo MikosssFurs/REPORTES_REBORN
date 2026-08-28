@@ -770,7 +770,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     gap: 10px;
     white-space: nowrap;
 }
-
+/* Avatar circular del usuario */
 /* Avatar del Autor (fuerza tamaño circular de 32x32px) */
 .avatarautor,
 .tabladelideres .avatarautor,
