@@ -32,7 +32,7 @@ body {
     color: var(--white);
     transition: background-color 0.3s ease, color 0.3s ease;
 }
-
+/* Contenedor principal para centrar contenido */
 .contenedor {
     max-width: 1200px;
     margin: 0 auto;
