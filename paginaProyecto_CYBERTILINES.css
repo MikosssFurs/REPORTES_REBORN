@@ -238,7 +238,7 @@ CABECERA Y NAVEGACIÓN
 }
 
 
-/*Eliminar border y Background, ASIGNADO PARA NICOLAS MESA LIStoO*/
+/*Eliminar border y Background, ASIGNADO PARA NICOLAS MESA X LISTO*/
 .botoncuentaaesthetic {
     display: flex;
     align-items: center;
@@ -246,9 +246,7 @@ CABECERA Y NAVEGACIÓN
     width: 38px;
     height: 38px;
     border-radius: 50%;
-    border: 2px solid var(--gold);
     overflow: hidden;
-    background: #0d1117;
     transition: transform 0.2s ease;
 }
 
@@ -762,7 +760,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 }
 
 /* ==========================================
-   CONTROL ESPECÍFICO DE IMÁGENES EN LA TABLA
+    CONTROL ESPECÍFICO DE IMÁGENES EN LA TABLA
    ========================================== */
 
 /* Alineación limpia de la celda de Autor */
@@ -787,10 +785,10 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     border: 1px solid var(--gold, #ffcc00);
 }
 
-/*Solucionar padding a 0: Asignado para Nicolas Mesa*/
+/*Solucionar padding a 0: Asignado para Nicolas Mesa X LISTO*/
 .avatargris,
 .tabladelideres td img.avatargris {
-    padding: 5px;
+    padding: 0px;
     border-color: #777 !important;
     background: #343943;
     filter: grayscale(1);
@@ -808,7 +806,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 }
 
 /* ==========================================
-   MIS REPORTES & SOPORTE
+    MIS REPORTES & SOPORTE
    ========================================== */
 .listademisreportes {
     display: flex;
@@ -903,7 +901,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 #reporteMsg.err { color: #f44336; }
 
 /* ==========================================
-   VARIABLES Y ESTILOS MODO CLARO ; Encargado: JOAQUIN SALAMANCA ( 814 - 882 ) LISTOO
+    VARIABLES Y ESTILOS MODO CLARO ; Encargado: JOAQUIN SALAMANCA ( 814 - 882 ) LISTOO
    ========================================== */
 body.light-theme {
     --bg-dark: #faf8f3;
