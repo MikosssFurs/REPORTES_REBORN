@@ -470,6 +470,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     color: #d6d6d6;
 }
 /* ASIGANDO PARA MARKO LISTOO*/
+/* Grid de dos columnas para formularios de registro */
 .grilladeregistro {
     display: grid;
     grid-template-columns: 1fr 1fr;
