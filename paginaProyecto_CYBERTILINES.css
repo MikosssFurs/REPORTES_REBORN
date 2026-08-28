@@ -238,7 +238,7 @@ CABECERA Y NAVEGACIÓN
 }
 
 
-/*Eliminar border y Background, ASIGNADO PARA NICOLAS MESA LIStoO*/
+/*Eliminar border y Background, ASIGNADO PARA NICOLAS MESA*/
 .botoncuentaaesthetic {
     display: flex;
     align-items: center;
@@ -762,7 +762,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 }
 
 /* ==========================================
-   CONTROL ESPECÍFICO DE IMÁGENES EN LA TABLA
+    CONTROL ESPECÍFICO DE IMÁGENES EN LA TABLA
    ========================================== */
 
 /* Alineación limpia de la celda de Autor */
@@ -903,7 +903,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 #reporteMsg.err { color: #f44336; }
 
 /* ==========================================
-   VARIABLES Y ESTILOS MODO CLARO ; Encargado: JOAQUIN SALAMANCA ( 814 - 882 ) LISTOO
+    VARIABLES Y ESTILOS MODO CLARO ; Encargado: JOAQUIN SALAMANCA ( 814 - 882 ) LISTOO
    ========================================== */
 body.light-theme {
     --bg-dark: #faf8f3;
