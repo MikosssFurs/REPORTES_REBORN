@@ -66,7 +66,7 @@
 .bloquecategoria {
     border-top: 2px solid var(--gold);
 }
-
+/* Botón desplegable para expandir o contraer categorías */
 .botoncategoria {
     width: 100%;
     border: 0;
