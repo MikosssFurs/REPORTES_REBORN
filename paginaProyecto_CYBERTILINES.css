@@ -568,6 +568,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     color: var(--gold);
 }
 
+/* Botón principal para enviar */
 .botonpaenviar {
     background: var(--gold);
     color: #000;
