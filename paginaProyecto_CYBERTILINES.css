@@ -99,7 +99,7 @@ body {
 }
 
 /* ==========================================
-   PANTALLA DE CARGA (LOADING SCREEN)
+    PANTALLA DE CARGA (LOADING SCREEN)
    ========================================== */
 #guard-loading-screen {
     position: fixed;
@@ -702,7 +702,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 }
 
 /* ==========================================
-   TABLA DE LÍDERES (CON SCROLL Y LÍMITE DE 4 FILAS)
+    TABLA DE LÍDERES (CON SCROLL Y LÍMITE DE 4 FILAS)
    ========================================== */
 
 /* 1. Contenedor con altura fija y scroll */
