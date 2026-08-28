@@ -56,7 +56,7 @@
     color: #b8b8b8;
     line-height: 1.6;
 }
-
+/* Lista que agrupa las diferentes categorías */
 .listacategorias {
     display: flex;
     flex-direction: column;
