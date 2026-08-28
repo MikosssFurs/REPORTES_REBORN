@@ -788,7 +788,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
 /*Solucionar padding a 0: Asignado para Nicolas Mesa*/
 .avatargris,
 .tabladelideres td img.avatargris {
-    padding: 5px;
+    padding: 0px;
     border-color: #777 !important;
     background: #343943;
     filter: grayscale(1);
