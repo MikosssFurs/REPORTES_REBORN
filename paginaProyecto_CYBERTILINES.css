@@ -785,7 +785,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     border: 1px solid var(--gold, #ffcc00);
 }
 
-/*Solucionar padding a 0: Asignado para Nicolas Mesa*/
+/*Solucionar padding a 0: Asignado para Nicolas Mesa X LISTO*/
 .avatargris,
 .tabladelideres td img.avatargris {
     padding: 0px;
