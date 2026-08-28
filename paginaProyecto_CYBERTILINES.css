@@ -14,7 +14,7 @@ VARIABLES Y ESTILOS BASE (MODO OSCURO / PREDETERMINADO)
     display: none;
 }
 
-/* Contenedor universal supongo */
+/* Contenedor universal */
 * {
     box-sizing: border-box;
 }
