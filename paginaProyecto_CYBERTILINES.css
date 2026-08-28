@@ -354,6 +354,7 @@ CABECERA Y NAVEGACIÓN
     z-index: 150;
 }
 
+/* Activa la capa oscura cuando el panel está abierto */
 .capaoscurapatapar.is-open {
     display: block;
 }
