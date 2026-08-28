@@ -246,7 +246,6 @@ CABECERA Y NAVEGACIÓN
     width: 38px;
     height: 38px;
     border-radius: 50%;
-    border: 2px solid var(--gold);
     overflow: hidden;
     background: #0d1117;
     transition: transform 0.2s ease;
