@@ -740,7 +740,7 @@ MODALES Y FORMULARIOS (LOGIN & REPORTES)
     background: transparent;
 }
 
-/* Encabezado fijo durante el desplazamiento */
+/* 3 Encabezado fijo durante el desplazamiento */
 .tabladelideres th {
     position: sticky;
     top: 0;
